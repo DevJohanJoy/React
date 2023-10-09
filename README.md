@@ -17,7 +17,7 @@ Before you start, make sure you have [Node.js](https://nodejs.org/) and [npm](ht
 1. Clone the repository:
 
 ```bash
-  git clone <repository-url>
+  git clone https://github.com/DevJohanJoy/basic-todo-app-react-ts.git
 ```
 
 2. Navigate to the project directory:
