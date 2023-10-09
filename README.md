@@ -2,7 +2,7 @@
 
 This is a simple Todo application built using React and TypeScript. It serves as a beginner-friendly project to help you learn the fundamentals of building a web application with these technologies.
 
-A tutorial to help create you an app like this is readable on [dev.to](https://dev.to/devjohanjoy/basic-todo-app-with-react-typescript-43po).
+A tutorial to help create you an app like this is readable in **french** on [dev.to](https://dev.to/devjohanjoy/basic-todo-app-with-react-typescript-43po).
 
 ## Features
 
